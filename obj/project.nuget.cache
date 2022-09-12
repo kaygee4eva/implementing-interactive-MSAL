@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ns7NfrDGYurVj9pvjEjTSkwTz+yHnLFHcaSw/DVQd+48UxFeQrty+oHnrKyQgCT65dYRIAkDAq5cWnqUK5mY2g==",
+  "dgSpecHash": "GZeS2FayiuhdQRFkg6XbF1lXTa6u/FehUkcHVTbwWmjY3uQJkYjXOammSCF4O8M1AVL66WuIhLXmd6XElbiqmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\KENAUTH\\KENAUTH.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identity.client\\4.46.2\\microsoft.identity.client.4.46.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
   "logs": []
 }
